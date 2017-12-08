@@ -1,0 +1,30 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 08 Dec 2017 21:16:00 at https://wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin-minimal/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin-minimal/index.html -O1 "C:\xampp\htdocs\admin-template\admin-tem" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:17:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin-minimal/bootstrap/dist/css/bootstrap.min.css (from https://wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin-minimal/index.html)
+21:21:05	Error: 	"Not Found" (404) at link https://wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin-minimal/forms.html (from https://wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin-minimal/index.html)
+21:21:05	Error: 	"Not Found" (404) at link https://wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin-minimal/tables.html (from https://wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin-minimal/index.html)
+21:21:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wrappixel.com/ampleadmin/ampleadmin-html/plugins/images/users/john.jpg (from https://wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin-minimal/index.html)
+21:21:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wrappixel.com/ampleadmin/ampleadmin-html/plugins/bower_components/jquery/dist/jquery.min.js (from https://wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin-minimal/index.html)
+21:21:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin-minimal/less/icons/font-awesome/fonts/fontawesome-webfont.eot?v=4.5.0 (from https://wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin-minimal/css/style.css)
+21:21:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin-minimal/less/icons/font-awesome/fonts/fontawesome-webfont.eot? (from https://wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin-minimal/css/style.css)
+21:21:23	Warning: 	File not parsed, looks like binary: https://wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin-minimal/less/icons/font-awesome/fonts/fontawesome-webfont.woff2?v=4.5.0
+21:21:23	Warning: 	File not parsed, looks like binary: https://wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin-minimal/less/icons/simple-line-icons/fonts/Simple-Line-Icons.woff2?-i3a2kk
+21:21:23	Warning: 	File not parsed, looks like binary: https://wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin-minimal/less/icons/weather-icons/font/weathericons-regular-webfont.woff2
+21:21:40	Error: 	"Not Found" (404) at link https://wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin-minimal/cropped.jpg (from https://wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin-minimal/form-img-cropper.html)
+21:21:52	Error: 	"Not Found" (404) at link https://wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin-minimal/www.youtube.com/watch?v=sK7riqg2mr4 (from https://wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin-minimal/lightbox.html)
+21:21:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wrappixel.com/ampleadmin/ampleadmin-html/plugins/images/users/john.jpg (from https://wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin-minimal/index.html)
+21:21:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wrappixel.com/ampleadmin/ampleadmin-html/plugins/bower_components/jquery/dist/jquery.min.js (from https://wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin-minimal/index.html)
+21:21:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin-minimal/bootstrap/dist/fonts/glyphicons-halflings-regular.eot? (from https://wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin-minimal/bootstrap/dist/css/bootstrap.min.css)
+21:21:52	Warning: 	File not parsed, looks like binary: https://wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin-minimal/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2
+21:21:52	Error: 	"Not Found" (404) at link https://wrappixel.com/ampleadmin/ampleadmin-html/plugins/bower_components/custom-select/select2-spinner.gif (from https://wrappixel.com/ampleadmin/ampleadmin-html/plugins/bower_components/custom-select/custom-select.css)
+21:21:52	Error: 	"Not Found" (404) at link https://wrappixel.com/ampleadmin/ampleadmin-html/plugins/bower_components/custom-select/select2x2.png (from https://wrappixel.com/ampleadmin/ampleadmin-html/plugins/bower_components/custom-select/custom-select.css)
+21:21:53	Error: 	"Not Found" (404) at link https://wrappixel.com/ampleadmin/ampleadmin-html/plugins/bower_components/owl.carousel/owl.video.play.png (from https://wrappixel.com/ampleadmin/ampleadmin-html/plugins/bower_components/owl.carousel/owl.carousel.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 54 seconds : 500 links scanned, 484 files written (24630738 bytes overall) [14752171 bytes received at 41672 bytes/sec], 13075874 bytes transferred using HTTP compression in 288 files, ratio 20%, 15.1 requests per connection
+(7 errors, 12 warnings, 0 messages)
