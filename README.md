@@ -1,2 +1,0 @@
-# admin-template
-admin-template
